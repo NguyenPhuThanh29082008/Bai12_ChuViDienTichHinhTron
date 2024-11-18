@@ -7,6 +7,7 @@ int main()
 {
     double bankinh, pi, chuvi, dientich;
 
+    cout << "Tinh Dien Tich Va Chu Vi Hinh Tron\n";
     cout << "Nhap bankinh: ";  cin >> bankinh;
     cout << "Ta co pi = 3.14\n";
     pi = 3.14;
